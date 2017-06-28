@@ -12,6 +12,7 @@
 		CF5C79891EDE13A2009BF27A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF5C79871EDE13A2009BF27A /* Main.storyboard */; };
 		CF5C798B1EDE13A2009BF27A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF5C798A1EDE13A2009BF27A /* Assets.xcassets */; };
 		CF5C798E1EDE13A2009BF27A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF5C798C1EDE13A2009BF27A /* LaunchScreen.storyboard */; };
+		CF5C79961EDE1459009BF27A /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5C79951EDE1459009BF27A /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CF5C798A1EDE13A2009BF27A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF5C798D1EDE13A2009BF27A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF5C798F1EDE13A2009BF27A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF5C79951EDE1459009BF27A /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CF5C79831EDE13A2009BF27A /* AppDelegate.swift */,
 				CF5C79851EDE13A2009BF27A /* ViewController.swift */,
 				CF5C79871EDE13A2009BF27A /* Main.storyboard */,
+				CF5C79951EDE1459009BF27A /* ResultViewController.swift */,
 				CF5C798A1EDE13A2009BF27A /* Assets.xcassets */,
 				CF5C798C1EDE13A2009BF27A /* LaunchScreen.storyboard */,
 				CF5C798F1EDE13A2009BF27A /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				CF5C79861EDE13A2009BF27A /* ViewController.swift in Sources */,
 				CF5C79841EDE13A2009BF27A /* AppDelegate.swift in Sources */,
+				CF5C79961EDE1459009BF27A /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
